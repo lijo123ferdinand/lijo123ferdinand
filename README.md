@@ -1,11 +1,3 @@
-<!--
-  This is the GitHub PROFILE README.
-  To publish it: create a public repo named exactly `lijo123ferdinand`
-  (github.com/new → Repository name: lijo123ferdinand → Public → Add a README),
-  then replace that repo's README.md with everything below this comment block.
-  GitHub renders it at the top of github.com/lijo123ferdinand.
--->
-
 ## Lijo Ferdinand
 
 Backend engineer in Bangalore. I build production LLM and data systems — and I build the
